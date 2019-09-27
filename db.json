@@ -1,0 +1,16 @@
+{
+  "produtos": [
+    {
+      "nome": "Smart TV 4K LED 50” Samsung UN50RU7100 Wi-Fi - HDR Conversor Digital 3 HDMI 2 USB",
+      "descricao": "Você irá se apaixonar pela tecnologia e inovação da Samsung UN50RU7100.Uma Smart TV com tela LED de 50\", resolução Ultra HD 4K (3840x2160) e HDR Premium onde oferece um padrão superior de contraste e brilho, exibindo muito melhor os detalhes da imagem, mais próxima da realidade, e cores mais vivas.Ela Possui ainda sistema operacional Tizen, conectividade através de Wi-Fi e Bluetooth, conversor digital integrado, 3 entradas HDMI e 2 USB.",
+      "preco": "1999.90",
+      "id": "1"
+    },
+    {
+      "nome": "Notebook Dell Inspiron 15 3000 i15-3583-A30P - Intel Core i7 8GB 2TB 15,6” Placa de Vídeo 2GB",
+      "descricao": "O notebook Inspiron 15 3000 i15-3583-A30P da Dell vai te ajudar em todos os momentos, seja no trabalho, estudo ou entretenimento. Além de um design moderno e arrojado, este modelo conta com tela de 15,6\" LED, HD (1366 x 768) com antirreflexo, ótima para utilizar em ambientes externos. Processador Intel Core i7-8565U de 8a Geração, que possui um desempenho surpreendente que ajudam na edição de vídeos 4K e melhoram o desempenho quando você trabalha com várias janelas abertas ao mesmo tempo.",
+      "preco": "3098.07",
+      "id": "AcLowgc"
+    }
+  ]
+}
